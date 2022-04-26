@@ -25,6 +25,8 @@ Tecnologias utilizadas:
 ### BACKEND
 - PHP
 - Slim Framework
+- SQL
+- MariaDB
 
 ## Layout
 
