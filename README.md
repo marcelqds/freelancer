@@ -16,13 +16,9 @@ Técnologias utilizadas:
 
 ## Vacina Tecnológica
 Tecnologias utilizadas:
-
-### FRONTEND
 - HTML
 - CSS
 - Javascript puro
-
-### BACKEND
 - PHP
 - Slim Framework
 - SQL
